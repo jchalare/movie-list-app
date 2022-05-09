@@ -1,0 +1,15 @@
+{
+    "name": "dev/movie",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dev\\Movie\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "devjchalare"
+        }
+    ],
+    "require": {}
+}
